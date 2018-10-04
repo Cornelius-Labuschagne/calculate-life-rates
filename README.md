@@ -15,7 +15,7 @@ use the following command in your terminal :
 
 <b>(param1)</b> is the first parameter that needs to be passed to the function.
 
-This will be the user dat of bith in the format of dd/mm/yyyy.
+This will be the user date of birth in the format of dd/mm/yyyy.
 
 The app will crash if not ued in this format.
 
